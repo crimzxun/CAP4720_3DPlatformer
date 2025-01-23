@@ -1,4 +1,4 @@
-# CAP4720: 3D Platformer
+# CAP4720: 3D Platformer using PyGame and OpenGL
 
 ## Group Members and Roles:
 
