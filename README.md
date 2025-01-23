@@ -1,6 +1,7 @@
 # CAP4720: 3D Platformer
 
-Group Members and Roles:
+## Group Members and Roles:
+
 Marlon Masia:
 Shadows, Collision
 
@@ -14,9 +15,10 @@ Arwin Nimityongskul:
 Skybox, Timer
 
 
-What is our project about?
+## What is our project about?
 Christmas time! Santa is out collecting his presents for
 the holidays. Collect as many gifts within the time limit!
 
+## Controls:
 Basic character movement using WASD and camera movement using the mouse.
 
